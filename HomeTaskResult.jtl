@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603363274554,3142,Home Page,200,OK,Example 1-1,text,false,"The operation lasted too long: It took 3,142 milliseconds, but should not have lasted longer than 1,700 milliseconds.",6849,392,1,1,https://demo.nopcommerce.com/,3140,0,1570
+1603363277702,1167,Search products,200,OK,Example 1-1,text,true,,5682,432,1,1,https://demo.nopcommerce.com/search?searchproduct=Apple,1166,0,0
+1603363278870,405,Navigate to Mac page,200,OK,Example 1-1,text,true,,8702,445,1,1,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,404,0,0
+1603363279276,1068,Add to cart,200,OK,Example 1-1,text,true,,2009,728,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,1068,0,0
+1603363280345,1144,Navigate to cart,200,OK,Example 1-1,text,true,,4827,435,1,1,https://demo.nopcommerce.com/cart,1144,0,0
+1603363281492,289,Cart Page,200,OK,Example 1-1,text,true,,1804,829,1,1,https://demo.nopcommerce.com/shoppingcart/checkoutattributechange?isEditable=True,289,0,0
